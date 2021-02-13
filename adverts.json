@@ -1,0 +1,22 @@
+{
+    "advertPhotos": [
+        {
+            "src" : "/photos/arcteryx_ad.jpg"
+        },
+        {
+            "src" : "/photos/cg_ad.jpg"
+        },
+        {
+            "src" : "/photos/mammut_ad.jpg"
+        },
+        {
+            "src" : "/photos/salomon_ad.jpg"
+        },
+        {
+            "src" : "/photos/tnf_ad.jpg"
+        },
+        {
+            "src": "/photos/columbia_ad.jpg"
+        }
+    ]
+}
